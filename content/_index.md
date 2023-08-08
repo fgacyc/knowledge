@@ -1,5 +1,5 @@
 ---
-title: 💡 FGACYC Knowledge Base
+title: Knowledge Base
 enableToc: false
 ---
 
