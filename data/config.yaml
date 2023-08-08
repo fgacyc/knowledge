@@ -1,0 +1,32 @@
+name: FGACYC
+enableToc: true
+openToc: false
+enableLinkPreview: true
+enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableCallouts: true
+enableSPA: true
+enableFooter: true
+enableContextualBacklinks: true
+enableRecentNotes: false
+enableGitHubEdit: true
+enableMermaid: true
+GitHubLink: https://github.com/fgacyc/knowledge/tree/main/content
+search:
+  enableSemanticSearch: false
+  operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+  operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
+description:
+  The gold mine of FGACYC's ministry past experience and current knowledge.
+page_title:
+  "💡 Knowledge Base"
+links:
+  - link_name: Website
+    link: https://fgacyc.com/
+  - link_name: YouTube
+    link: https://www.youtube.com/@fgacyc
+  - link_name: Instagram
+    link: https://www.instagram.com/fgacyc/
+  - link_name: GitHub
+    link: https://github.com/fgacyc
