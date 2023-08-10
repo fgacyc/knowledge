@@ -12,3 +12,9 @@ this is text test1
 
 this is text test2
 
+
+[[notes/test2| this is test2]]
+
+
+
+

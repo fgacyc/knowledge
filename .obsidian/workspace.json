@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/test1.md",
+                "file": "content/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5a060ac842c079d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/test2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/test1.md",
+                "file": "content/notes/test2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/test1.md",
+                "file": "content/notes/test2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/test1.md"
+                "file": "content/notes/test2.md"
               }
             }
           }
@@ -146,12 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58b005be1f9318d9",
+  "active": "d5a060ac842c079d",
   "lastOpenFiles": [
+    "content/_index.md",
+    "content/notes/test2.md",
+    "content/notes/test1.md",
     "notes/ministry.md",
     "notes/test1.md",
-    "content/_index.md",
-    "content/notes/test1.md",
     "content/notes/ministry.md",
     "content/templates/post.md",
     "content/notes/tech/authentication.md",
