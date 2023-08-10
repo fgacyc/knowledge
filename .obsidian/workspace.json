@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "36a8641914ea5748",
+        "id": "0b5dce488d848337",
         "type": "tabs",
         "children": [
           {
-            "id": "07dd9fdc93e6bb04",
+            "id": "58b005be1f9318d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/test1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/test1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/test1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/test1.md"
               }
             }
           }
@@ -146,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2f63bc78a21d509",
+  "active": "58b005be1f9318d9",
   "lastOpenFiles": [
-    "content/notes/test1.md",
-    "content/_index.md",
-    "content/notes/ministry.md",
     "notes/ministry.md",
+    "notes/test1.md",
+    "content/_index.md",
+    "content/notes/test1.md",
+    "content/notes/ministry.md",
     "content/templates/post.md",
     "content/notes/tech/authentication.md",
     "content/notes/people_experience.md",
